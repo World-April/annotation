@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.example.demo.autoConfigureAfterAndBefore.B,\
+    com.example.demo.autoConfigureAfterAndBefore.A
